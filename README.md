@@ -1,7 +1,11 @@
 -Hi, I’m @NightTerror04
+<br>
 -I’m interested in Coding
+<br>
 -I’m currently learning C#
+<br>
 -I’m looking to collaborate on Idk
+<br>
 -How to reach me Discord: NightTerror#6019
 
 <!---
